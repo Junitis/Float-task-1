@@ -1,0 +1,140 @@
+/*
+    Pilko teksto spalva
+    #666;
+
+    Bloko viršutinio border ir h1 spalva:
+    #0974b3
+
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 35px;
+    background: rgb(221, 221, 221);
+}
+
+h1 {
+    margin-top: 20px;
+    color: #0974b3;
+}
+.metai {
+    margin-top: -15px;
+    color: #666;
+}
+.Niutonas {
+    border-top: solid #0974b3;
+    border-width: 5px;
+    float: left;
+    max-width: 800px;
+    /* max-height: 800px; */
+    margin: 0 auto;
+    padding-left: 15px;
+    background-color: white;
+    overflow: hidden;
+    height: 400px;
+    padding-right: 15px;
+}
+
+.IN {
+    margin-top: 15px;
+    /* height: 200px;
+    width: 600px; */
+}
+/* .tekstas1 {
+    float: left;
+} */
+/* h1 {
+    margin-top: 5px;
+} */
+.IN p {
+    margin-left: 15px;
+    /* width: 400px;
+    height: 400px;
+    float: left; */
+}
+.IN img{
+    float: left;
+    margin-right: 20px;
+}
+article {
+    max-width: 800px;
+}
+
+
+
+
+
+/* h1 {
+    margin-top: 20px;
+    color: #0974b3;
+} */
+.metai2 {
+    margin-top: -15px;
+    color: #666;
+}
+.Ensteinas {
+    margin-top: 50px;
+    border-top: solid #0974b3;
+    border-width: 5px;
+    float: left;
+    width: 375px;
+    height: 500px;
+    /* margin: 0 auto; */
+    padding-left: 15px;
+    background-color: white;
+    overflow: hidden;
+    padding-right: 15px;
+}
+
+.AE {
+    margin-top: 15px;
+
+}
+.AE p {
+    margin-left: 15px;
+}
+
+.AE img{
+    float: left;
+    margin-right: 20px;
+}
+
+
+
+
+.metai3 {
+    margin-top: -15px;
+    color: #666;
+}
+.Tesla {
+    margin-top: 50px;
+    margin-left: 50px;
+    border-top: solid #0974b3;
+    border-width: 5px;
+    float: left;
+    width: 375px;
+    height: 500px;
+    /* margin: 0 auto; */
+    padding-left: 15px;
+    background-color: white;
+    overflow: hidden;
+    padding-right: 15px;
+}
+
+.NK {
+    margin-top: 15px;
+
+}
+.NK p {
+    margin-left: 15px;
+}
+
+.NK img{
+    float: left;
+    margin-right: 20px;
+}
